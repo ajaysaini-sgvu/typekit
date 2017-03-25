@@ -2,7 +2,7 @@
 Typekit is an android library to make it easy, to use custom Fonts.
 
 <p align="left">
-  &nbsp;&nbsp;<img src="https://github.com/ajaysaini-sgvu/Typekit/blob/master/device-2017-03-26-002705.png" width="350"/>
+  &nbsp;<img src="https://github.com/ajaysaini-sgvu/Typekit/blob/master/device-2017-03-26-002705.png" width="350"/>
 </p>
 
 ## Getting started
