@@ -1,4 +1,4 @@
-Typekit is an android library to make it easy, to use custom Fonts.
+Typekit is an android library to make it easy, to use custom fonts.
 
 <p align="left">
   &nbsp;<img src="https://github.com/ajaysaini-sgvu/Typekit/blob/master/device-2017-03-26-002705.png" width="350"/>
@@ -22,7 +22,7 @@ dependencies {
 Add your custom fonts to `assets/fonts`. All font definitions are relative to this path.
 
 Assuming that you are using Gradle you should create the assets directory under `src/main/` in your project directory if it does not already exist.
-As it's popular to use multi-project build with Gradle the path is usually `app/src/main/assets/`, where `app` is the project name.
+As it's popular to use multi-project build with Gradle the path is usually `app/src/main/assets/fonts/`, where `app` is the project name.
 
 ### Usage
 
