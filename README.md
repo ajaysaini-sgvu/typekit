@@ -7,9 +7,15 @@ Typekit is an android library to make it easy, to use custom Fonts.
 ## Getting started
 
 ### Installation
+
 Add gradle dependency with command:
 
-TODO
+```groovy
+dependencies {
+    compile 'com.nagarro.typekit:android-typekit:1.0'
+    ...
+}
+```
 
 ### Add Fonts
 
