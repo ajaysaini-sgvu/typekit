@@ -29,13 +29,11 @@ As it's popular to use multi-project build with Gradle the path is usually `app/
 ```xml
 
 <com.nagarro.typekit.TextView
-     android:layout_width="368dp"
-     android:layout_height="495dp"
-     app:fontFamily="Roboto-Thin"
-     android:text="Hello World"
-     tools:layout_editor_absoluteY="8dp"
-     tools:layout_editor_absoluteX="8dp"
-     android:textSize="40sp"/>
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:fontFamily="Roboto-Thin"
+    android:text="Hello World"
+    android:textSize="40sp"/>
 ``` 
 
 ### Version: 1.0.0
